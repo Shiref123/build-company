@@ -7,10 +7,7 @@ body{
 .section-padding{
     padding: 100px 0;
 }
-.carousel-item{
-    height: 100vh;
-    min-height: 300px;
-}
+
 .carousel-caption{
     bottom: 125px;
     z-index: 2;
@@ -86,12 +83,6 @@ body{
 }
 .team-team-padding .socials{
     letter-spacing: 5px;
-}
-.card{
-    box-shadow: 15px 15px 40px rgba(0,0,0,0.4);
-}
-.contact-section-padding{
-    box-shadow: 15px 15px 40px rgba(0,0,0,0.4); 
 }
 @media only screen and (max-width:1000px){
     .carousel-caption{
